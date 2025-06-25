@@ -1,0 +1,14 @@
+[
+  { "name": "Bhubaneswar", "latitude": 20.2961, "longitude": 85.8245, "image": "bhubaneswar" },
+  { "name": "Delhi", "latitude": 28.6139, "longitude": 77.209, "image": "delhi" },
+  { "name": "Mumbai", "latitude": 19.076, "longitude": 72.8777, "image": "mumbai" },
+  { "name": "Jammu", "latitude": 32.7266, "longitude": 74.857, "image": "jammu" },
+  { "name": "Kanyakumari", "latitude": 8.0883, "longitude": 77.5385, "image": "kanyakumari" },
+  { "name": "Indore", "latitude": 22.7196, "longitude": 75.8577, "image": "indore" },
+  { "name": "Shillong", "latitude": 25.5788, "longitude": 91.8933, "image": "shillong" },
+  { "name": "Hyderabad", "latitude": 17.385, "longitude": 78.4867, "image": "hyderabad" },
+  { "name": "Gandhinagar", "latitude": 23.223, "longitude": 72.6509, "image": "gandhinagar" },
+  { "name": "Chennai", "latitude": 13.0827, "longitude": 80.2707, "image": "chennai" },
+  { "name": "Dehradun", "latitude": 30.3165, "longitude": 78.0322, "image": "dehradun" },
+  { "name": "Jaipur", "latitude": 26.9124, "longitude": 75.7873, "image": "jaipur" }
+]
