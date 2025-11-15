@@ -39,6 +39,7 @@ Follow the steps below to run the project locally:
 
 ## 1️⃣ Clone the Repository
 git clone https://github.com/Riteshksahoo/react.git
+
 cd reactProject
 
 ## 2️⃣ Install Dependencies
@@ -47,7 +48,7 @@ npm install
 ## 3️⃣ Start Development Server
 npm run dev
 
-##4️⃣ Open in Browser
+## 4️⃣ Open in Browser
 
 Navigate to:
 
