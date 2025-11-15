@@ -38,7 +38,7 @@ Version Control	Git + GitHub
 Follow the steps below to run the project locally:
 
 ## 1️⃣ Clone the Repository
-git clone https://github.com/your-username/reactProject.git
+git clone https://github.com/Riteshksahoo/react.git
 cd reactProject
 
 ## 2️⃣ Install Dependencies
